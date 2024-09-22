@@ -7,8 +7,9 @@ public class Addition {
 		
 		int a = 2;
 		int b = 3;
-		int c = a+b;
-		System.out.println("The of numbers is = " + c);
+		int c = 4;
+		int d = a+b+c;
+		System.out.println("The Sum of numbers is = " + d);
 		
 		
 
