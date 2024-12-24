@@ -9,7 +9,7 @@ public class Addition {
 		int b = 3;
 		int c = 4;
 		int d = a+b+c;
-		System.out.println("The Sum of numbers is = " + d);
+		System.out.println("The Sum of 3  numbers is = " + d);
 		
 		
 
