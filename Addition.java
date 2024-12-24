@@ -10,6 +10,7 @@ public class Addition {
 		int c = 4;
 		int d = a+b+c;
 		System.out.println("The Sum of 3  numbers is = " + d);
+		System.out.println("The Sum of three numbers is = " + d);
 		
 		
 
